@@ -1,2 +1,1 @@
-# Major-I
-Surveillance Drone
+# Surveillance Drone
