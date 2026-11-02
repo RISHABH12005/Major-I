@@ -8,15 +8,6 @@ The project focuses on a hexacopter-based unmanned aerial vehicle (UAV) concept 
 
 The repository is currently documentation- and configuration-oriented. It does not yet contain application source code, an AI model, or a flight-control implementation. The capabilities described here are the project direction, not a claim that those features are already implemented.
 
-## Repository Contents
-
-| Path | Description |
-| --- | --- |
-| [`Doc/SRS.pdf`](Doc/SRS.pdf) | Software Requirements Specification (SRS) |
-| [`Doc/AIDSDASE.png`](Doc/AIDSDASE.png) | Project diagram / supporting visual |
-| [`Parameters/Hexacopter Parameters List.param`](Parameters/Hexacopter%20Parameters%20List.param) | ArduCopter-style parameter export for a hexacopter frame |
-| [`LICENSE`](LICENSE) | MIT License |
-
 ## System Configuration
 
 The parameter file contains flight-controller configuration values covering areas such as:
@@ -79,6 +70,3 @@ For parameter changes, include the target hardware and firmware context and expl
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-**Repository:** [RISHABH12005/Major-I](https://github.com/RISHABH12005/Major-I)
