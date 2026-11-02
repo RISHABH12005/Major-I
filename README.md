@@ -12,9 +12,7 @@
 
 ### Software Requirements Specification (SRS)
 
-The Software Requirements Specification describes the project's requirements, system scope, expected functionality, and constraints. Refer to the document for the formal requirements of the AI-Driven Surveillance Drone.
-
-[**View / Download Software Requirements Specification (PDF)**](Doc/SRS.pdf)
+- [Software Requirements Specification](Doc/SRS.pdf)
 
 ## License
 
