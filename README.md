@@ -10,8 +10,6 @@
 
 ## Documentation
 
-### Software Requirements Specification (SRS)
-
 - [Software Requirements Specification](Doc/SRS.pdf)
 
 ## License
