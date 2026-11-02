@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**AI-Driven Surveillance Drone** is a major project focused on the development of an intelligent unmanned aerial vehicle (UAV) for aerial surveillance. The project uses a hexacopter platform and follows an Agile Software Engineering approach.
+**AI-Driven Surveillance Drone using Agile Software Engineering** is a major project focused on the development of an intelligent unmanned aerial vehicle (UAV) for aerial surveillance. The project uses a hexacopter platform and follows an Agile Software Engineering approach.
 
 ## Project Diagram
 
